@@ -64,4 +64,16 @@ img{
     text-align: center;
     
 }
+@media (max-width:627px){
+ img{
+     width: 120px;
+     height: 120px;  
+     margin-left: 0px;
+     gap: 1rem;
+   }
+   .choice:hover{
+    opacity: 0.75;
+    background-color: #6F9CEB;
+   }
+}
 
