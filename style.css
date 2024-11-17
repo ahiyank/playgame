@@ -75,5 +75,9 @@ img{
     opacity: 0.75;
     background-color: #6F9CEB;
    }
+    body{
+    transform:rotate(90deg);
+        
+    }
 }
 
